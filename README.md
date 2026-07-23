@@ -4,7 +4,7 @@
 
 A [Claude Code](https://claude.com/claude-code) skill that turns a rough video idea
 into a copy-ready [Seedance 2.0](https://seedance.ai) prompt — through a short
-director's interview, not a template dump.
+director's interview.
 
 It plays film director and prompt engineer at once: it hears your idea, gives it an
 honest read (is there one pause-worthy frame, or is this secretly three acts?),
@@ -71,6 +71,8 @@ language prompts degrade quality.
 For longer videos, it won't try to cram a story into one render — it builds a shot
 list first, gets sign-off, then writes one full prompt per shot, reusing the same
 character reference across all of them.
+
+Check one of the videos done with this prompter: https://www.instagram.com/p/DadaBApivfH/
 
 ## Structure
 
