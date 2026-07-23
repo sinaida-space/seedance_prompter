@@ -77,10 +77,11 @@ Check one of the videos done with this prompter: https://www.instagram.com/p/Dad
 ## Structure
 
 ```
-SKILL.md                          entry point — director persona, interview flow, prompt template, hard rules
-references/camera-and-style.md    camera movement table, film stocks, color grades, textures, named styles
-references/genre-playbooks.md     8 genre grammars with full example prompts (product, fashion, sci-fi, music video, horror, documentary, viral hook, UGC)
-references/troubleshooting.md     error taxonomy, 14-point pre-flight checklist, reference-photo requirements, glossary
+SKILL.md                                      entry point — director persona, interview flow, prompt template, hard rules
+references/camera-and-style.md                camera movement table, film stocks, color grades, textures, named styles
+references/genre-playbooks.md                 8 genre grammars with full example prompts (product, fashion, sci-fi, music video, horror, documentary, viral hook, UGC)
+references/troubleshooting.md                 error taxonomy, 14-point pre-flight checklist, reference-photo requirements, glossary
+references/cinematography-and-editing.md      shot sizes, camera angles, blocking, composition; editing theory — Walter Murch's Rule of Six and the Kuleshov effect for shot-list sequencing
 ```
 
 ## License
