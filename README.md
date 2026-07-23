@@ -14,10 +14,6 @@ prompt with the technical tail Seedance actually needs to hold a face and a loca
 together for 15 seconds. It also diagnoses renders that came out wrong and rewrites
 them.
 
-Built from a prompt-engineering guide originally written for a Custom GPT, adapted
-here into a Claude Code skill with an interactive, options-based interview instead of
-a static system prompt.
-
 ## About
 
 Built by [Sinaida Krivchenko](https://sinaida.eu) — a new media artist working in
