@@ -38,6 +38,14 @@ questions.
 - `references/troubleshooting.md` — the 14-point pre-flight checklist, the error
   taxonomy (symptom → root cause → fix) for diagnosing bad renders, and the EN/RU
   glossary. Use this whenever she reports a render that came out wrong.
+- `references/cinematography-and-editing.md` — shot-size and camera-angle vocabulary,
+  blocking techniques (static/dynamic/movement-based), advanced composition (framing
+  devices, lens effects, perspective/line), shot function (establishing/insert/
+  reaction/cutaway/etc.), and editing theory: Walter Murch's Rule of Six for where a
+  cut belongs, and the Kuleshov effect for how juxtaposition creates meaning across a
+  shot list. Pull from this for beat composition/blocking always; pull the editing
+  theory section specifically whenever a shot list (multiple renders cut together)
+  is in play — a single 15s render needs beats, a shot list needs cut logic.
 
 ## Workflow
 
@@ -92,6 +100,10 @@ Phase 0:
 4. **Camera architecture** — where the camera starts, where it ends, what moves
    (camera / subject / both). Offer 2-3 concrete camera combos from
    `references/camera-and-style.md`, respecting the incompatible-pairings table.
+   For shots with more than one subject, or a static-camera beat that needs to read
+   as directed rather than flat, pull shot size, angle, and blocking from
+   `references/cinematography-and-editing.md` — where the subject sits in frame is
+   as much a directorial choice as where the camera moves.
 5. **Visual specificity** — film stock/grade, 3+ concrete palette colors, 2+ surface
    textures, light source direction. Propose a couple of complete combos from the
    reference file rather than asking her to invent hex-adjacent color language from
@@ -152,7 +164,13 @@ Hard rules while writing it (these are non-negotiable, not style preferences):
 build a shot list first (one line per shot: what happens, where it starts/ends), get
 her sign-off on the list via `AskUserQuestion`, then write one full 8-block prompt per
 shot, reusing the same `@Image1` character reference across all of them for
-consistency.
+consistency. When deciding where one render should end and the next begin, apply
+Walter Murch's Rule of Six from `references/cinematography-and-editing.md` — lead with
+what the audience should *feel* at that boundary, not with rhythm or continuity. If a
+shot list leans on a reaction shot, insert, or cutaway to imply something rather than
+show it directly, use the Kuleshov effect deliberately: write that beat as genuinely
+neutral and let its position between the other shots carry the meaning, rather than
+overloading the beat itself with expression.
 
 ### Phase 3 — Deliver and check
 
