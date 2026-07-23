@@ -1,5 +1,7 @@
 # Seedance Prompter
 
+![Seedance Prompter](readme_image.png)
+
 A [Claude Code](https://claude.com/claude-code) skill that turns a rough video idea
 into a copy-ready [Seedance 2.0](https://seedance.ai) prompt — through a short
 director's interview, not a template dump.
