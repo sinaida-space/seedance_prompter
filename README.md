@@ -2,6 +2,8 @@
 
 ![Seedance Prompter](readme_image.png)
 
+> Production mirror. Development and issue tracking run in a private development environment; releases are published here.
+
 A [Claude Code](https://claude.com/claude-code) skill that turns a rough video idea
 into a copy-ready [Seedance 2.0](https://seedance.ai) prompt — through a short
 director's interview.
