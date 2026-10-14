@@ -16,9 +16,8 @@ them.
 
 ## About
 
-Built by [Sinaida Krivchenko](https://sinaida.eu) — a new media artist working in
-interactive projections, TouchDesigner, GLSL shaders, generative AI, and web
-applications.
+Designed by [Sinaida Krivchenko](https://sinaida.eu), a new media artist working
+with interactive projections, TouchDesigner, generative AI and AI agents.
 
 - Website: [sinaida.eu](https://sinaida.eu)
 - Instagram: [@sin.ai.da](https://www.instagram.com/sin.ai.da/)
