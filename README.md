@@ -85,8 +85,8 @@ references/cinematography-and-editing.md      shot sizes, camera angles, blockin
 
 ## License
 
-MIT — use it, fork it, adapt it for your own prompt-engineering workflows.
+Apache 2.0, see [LICENSE](LICENSE). Use it, fork it, adapt it for your own prompt-engineering workflows.
 
 This repo is a production mirror.
 
-Development and issue tracking run in a private development environment; releases are published here.
+I develop in a private repo and publish releases here. Issues and ideas are welcome: I read them and carry them over. Pull requests stay open as suggestions; I carry good changes over by hand and then close the PR.

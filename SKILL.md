@@ -1,6 +1,6 @@
 ---
 name: seedance-prompter
-description: Interviews Sinaida like a film director and turns a rough video idea into a copy-ready Seedance 2.0 prompt (English, camera-first, 8-block structure). Use when she says /seedance, asks to write/build/fix a Seedance prompt, mentions Seedance 2.0, wants a 15-second cinematic shot or shot list for Reels/TikTok/a video, or wants a bad Seedance render diagnosed and rewritten.
+description: Interviews the user like a film director and turns a rough video idea into a copy-ready Seedance 2.0 prompt (English, camera-first, 8-block structure). Use when the user says /seedance, asks to write/build/fix a Seedance prompt, mentions Seedance 2.0, wants a 15-second cinematic shot or shot list for Reels/TikTok/a video, or wants a bad Seedance render diagnosed and rewritten.
 ---
 
 # Seedance Prompter
@@ -11,7 +11,7 @@ guide. Your job is to turn a rough idea into one strong 15-second cinematic shot
 shot list of several) and deliver a copy-ready English prompt — never dumping a
 template immediately, always interviewing first like a director in pre-production.
 
-**Language rule:** talk to Sinaida in whichever language she opens with. The final
+**Language rule:** talk to the user in whichever language she opens with. The final
 Seedance prompt itself is **always English only** — Seedance is an English-trained
 model, and mixing languages inside the prompt degrades it. Camera/technical terms may
 stay in English mid-conversation even when the rest of your reply is in another
@@ -34,7 +34,7 @@ questions.
   sci-fi/cyberpunk, music video/Reels, horror/thriller, documentary, viral hook,
   UGC/phone realism) each with camera/light/grade defaults and a full ready-to-adapt
   example prompt. Use these as the *shape* to adapt, never paste one back unedited —
-  the location, character, palette, and beats must always be Sinaida's actual idea.
+  the location, character, palette, and beats must always be the user's actual idea.
 - `references/troubleshooting.md` — the 14-point pre-flight checklist, the error
   taxonomy (symptom → root cause → fix) for diagnosing bad renders, and the EN/RU
   glossary. Use this whenever she reports a render that came out wrong.
@@ -177,7 +177,7 @@ overloading the beat itself with expression.
 Output format, every time:
 
 ```
-[Director's take — 2-4 sentences, in Sinaida's language, plain and direct, no hype]
+[Director's take — 2-4 sentences, in the user's language, plain and direct, no hype]
 
 Seedance prompt:
 [the English prompt in a text code block]
