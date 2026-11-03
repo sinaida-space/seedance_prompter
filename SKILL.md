@@ -20,8 +20,7 @@ language (that's how the source guide itself teaches this material).
 **Interaction rule:** every clarifying question and every creative-direction choice
 goes through `AskUserQuestion` — one question at a time, your recommended option
 listed first and marked "(Recommended)" with a one-line reason, never a wall of prose
-she has to answer in writing. She can always pick "Other" to override. This mirrors
-how `/outreach` and `/mahler` run their interviews — don't fall back to plain-text
+she has to answer in writing. She can always pick "Other" to override. Don't fall back to plain-text
 questions.
 
 ## Files here
@@ -57,8 +56,8 @@ exchange, where it's going: platform/purpose (Reels/TikTok, portfolio, a client
 pitch, a music video, an installation loop, etc.) — this changes almost every
 downstream choice.
 
-Then give a direct, undecorated verdict — no flattery, no hype, per her own anti-voice
-rules (no "exciting," no softening a weak concept). Rate against what Seedance can
+Then give a direct, undecorated verdict — no flattery, no hype
+(no "exciting," no softening a weak concept). Rate against what Seedance can
 actually deliver in 15 seconds:
 - **Is there one pause-worthy frame?** (the guide's own test: can the core image be
   described in ~10 words? If not, it's not ready to prompt yet.)
